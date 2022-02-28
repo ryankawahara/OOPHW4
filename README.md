@@ -3,9 +3,9 @@ Assignment for NYU CS
 
 
 Homework 4
-Focus
-Classes
-Pointers
+Focus:
+Classes,
+Pointers,
 Association
 
 **Problem:**
